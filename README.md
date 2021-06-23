@@ -1,4 +1,4 @@
-#The Retail Store Discounts
+# The Retail Store Discounts
 
 On a retail website, the following discounts apply:
 1. If the user is an employee of the store, he gets a 30% discount
@@ -14,5 +14,8 @@ On a retail website, the following discounts apply:
 ## Running the application locally  
 Execute the `main` method in the `BillingApplication` class from your IDE.
 
+### UML Diagram
+(https://drive.google.com/file/d/1mQf8da9-k-RxWxVj099qVVOPeI4sNORN/view?usp=sharing)
 ### API Documentation - Postman
 Link (https://documenter.getpostman.com/view/10340268/Tzeak76L)
+
